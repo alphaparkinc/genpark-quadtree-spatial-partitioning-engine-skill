@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-quadtree-spatial-partitioning-engine-skill"
+version = "1.0.0"
+description = "Recursive 2D Quadtree spatial decomposition partitioning points into quadrants with range queries"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
